@@ -7,8 +7,8 @@ CURVETE is a novel deep learning model developed to enhance classification perfo
 ### Datasets Used
 CURVETE has been evaluated on three distinct medical image datasets:
 1. **Brain Tumor Dataset**. [here](https://www.kaggle.com/datasets/navoneel/brain-mri-images-for-brain-tumor-detection)
-2. **Digital Knee X-ray Dataset**.
-3. **Mini-DDSM Dataset**.
+2. **Digital Knee X-ray Dataset**. [here](https://www.kaggle.com/datasets/shashwatwork/knee-osteoarthritis-dataset-with-severity?select=auto_test)
+3. **Mini-DDSM Dataset**. [here]( https://www.kaggle.com/datasets/cheddad/miniddsm2)
 
 ### Requirements
 To run this project, you'll need the following dependencies:
@@ -21,6 +21,5 @@ To run this project, you'll need the following dependencies:
   - `OpenCV`
  
 
-https://www.kaggle.com/datasets/navoneel/brain-mri-images-for-brain-tumor-detection
-###Citation
+### Citation
 If you use this code or method in your research, please cite the following paper:
