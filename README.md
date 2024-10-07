@@ -7,7 +7,7 @@ CURVETE is a novel deep learning model developed to enhance classification perfo
 ### Datasets Used
 CURVETE has been evaluated on three distinct medical image datasets:
 1. **Brain Tumor Dataset**. [here](https://www.kaggle.com/datasets/navoneel/brain-mri-images-for-brain-tumor-detection)
-2. **Digital Knee X-ray Dataset**. [here](https://www.kaggle.com/datasets/shashwatwork/knee-osteoarthritis-dataset-with-severity?select=auto_test)
+2. **Digital Knee X-ray Dataset**. [here](https://data.mendeley.com/datasets/t9ndx37v5h/1)
 3. **Mini-DDSM Dataset**. [here]( https://www.kaggle.com/datasets/cheddad/miniddsm2)
 
 ### Requirements
