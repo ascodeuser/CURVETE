@@ -22,7 +22,7 @@ To run this project, you'll need the following dependencies:
 
 ### Figure 1: Framework
 <p align="center">
-  <img src="https://github.com/ascodeuser/CLOG-CD/raw/main/images/method.png" alt="Model Figure" width="750"/>
+<img src="https://github.com/ascodeuser/CURVETE/raw/main/images/method.png" alt="Model Figure" width="750"/>
 </p>
 
 
