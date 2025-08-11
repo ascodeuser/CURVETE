@@ -22,7 +22,8 @@ To run this project, you'll need the following dependencies:
 
 ### Figure 1: Framework
 <p align="center">
-<img src="https://github.com/ascodeuser/CURVETE/raw/main/images/method.png" alt="Model Figure" width="500"/>
+<img src="https://github.com/ascodeuser/CURVETE/raw/main/images/method.png" alt="Model Figure" width="500" style="display: block; text-align: left;"/>
+  
 </p>
 
 
