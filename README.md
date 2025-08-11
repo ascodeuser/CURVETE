@@ -19,7 +19,17 @@ To run this project, you'll need the following dependencies:
   - `Matplotlib`
   - `scikit-learn`
   - `OpenCV`
- 
+
+### Figure 1: Framework
+<p align="center">
+  <img src="https://github.com/ascodeuser/CLOG-CD/raw/main/image/CLOG-CD_Model.png" alt="Model Figure" width="750"/>
+</p>
+
+
 
 ### Citation
 If you use this code or method in your research, please cite the following paper:
+
+**CURVETE: Curriculum Learning and Progressive Self-supervised Training for Medical Image Classification, ICONIP 2025.**
+
+*Asmaa Abbas, Mohamed Medhat Gaber, and Mohammed M. Abdelsamea*
