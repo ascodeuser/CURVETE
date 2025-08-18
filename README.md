@@ -2,7 +2,11 @@
 
 ## Introduction
 
-CURVETE is a novel deep learning model developed to enhance classification performance in medical image classification to handle two major challenges in medical imaging: limited labeled data and irregular class distribution. By leveraging a curriculum learning strategy with progressive sample decomposition, the model effectively extracts meaningful features and improves generalizability. CURVETE applies self-supervised learning on unlabeled data and integrates class decomposition to enhance classification performance, even in scenarios with imbalanced datasets.
+CURVETE is a self-supervised learning model that leverages an anti-curriculum learning strategy to enhance the training of unlabelled samples through sample decomposition. This approach aims to enhance the effectiveness of self-supervised learning by extracting meaningful features across a broad range of solutions, thereby improving feature transferability to a new dataset with limited samples. In the downstream task, CURVETE also applies class decomposition, guided by anti-curriculum learning, to handle irregular class distributions more effectively.
+
+
+### Results
+CURVETE has been evaluated on three medical image datasets: brain tumour, digital knee x-ray, and Mini-DDSM, using two different pre-trained networks. It achieved accuracies of 96.60% on the brain tumour dataset, 75.60% on the digital knee x-ray dataset, and 93.35% on the Mini-DDSM dataset using the baseline ResNet-50. Furthermore, the classification performance with the baseline DenseNet-121 achieved accuracies of 95.77%, 80.36%, and 93.22% on the brain tumour, digital knee x-ray, and Mini-DDSM datasets, respectively, outperforming other training strategies.
 
 ### Datasets Used
 CURVETE has been evaluated on three distinct medical image datasets:
